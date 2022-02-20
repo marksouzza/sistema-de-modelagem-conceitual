@@ -23,6 +23,5 @@ public class ResourceCategory {
 		list.add(cat2);
 		
 		return list;
-		
 	}
 }
