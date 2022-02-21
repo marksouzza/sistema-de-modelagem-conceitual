@@ -23,3 +23,4 @@ public class CategoryResource {
 		return ResponseEntity.ok().body(obj);
 	}
 }
+
